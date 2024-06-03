@@ -1,4 +1,4 @@
-package com.sakethcode.student;
+package com.Bhaskarcode.student;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
