@@ -1,4 +1,4 @@
-package com.sakethcode.student;
+package com.Bhaskarcode.student;
 
 import jakarta.persistence.*;
 
