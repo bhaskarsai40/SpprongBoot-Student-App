@@ -1,4 +1,4 @@
-package com.sakethcode.student;
+package com.Bhasakarcode.student;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
